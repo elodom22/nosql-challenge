@@ -1,6 +1,2 @@
 # nosql-challenge
-# References
-1. No sql coursework
-2. Google AI
-3. Microsoft Co-pilot AI
-4. Group consultation
+This challenge involves analyzing food hygiene ratings across the UK using NoSQL databases. As a data analyst for Eat Safe, Love, your task is to set up a MongoDB database, clean and update the data, and conduct exploratory analysis to help food critics identify establishments worth reviewing. Here, we import and structure data, modify records (such as adding new restaurants and removing unwanted entries), and perform queries to uncover insights—like hygiene scores and top-rated locations. This project strengthens skills in database management, data cleaning, and analytical querying for real-world applications.
